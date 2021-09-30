@@ -1,6 +1,6 @@
 ### Olá Eu sou o Luiz Almeida Alves Filho
 
-- 🔭 Hoje trabalho com testes manuais, funcionais e analise de serviços
+- 🔭 Hoje trabalho com testes funcionais e analise de serviços
 - 🌱 Estudando Golang
 - 😄 Pronouns: ele/dele
 
