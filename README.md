@@ -4,13 +4,13 @@
 <h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
 
 <p align="left"> 
-  Me chamo Luiz Almeida Alves Filho, moro em João Pessoa-PB. Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> e terminando meu TCC para Pós-graduação de <strong>Engenharia e Qualidade de Software</strong>.
+  Me chamo Luiz, moro em João Pessoa-PB. Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> e terminando meu TCC para Pós-graduação de <strong>Engenharia e Qualidade de Software</strong>.
   </br>
   </br>
   Tenho experiência há 15 anos na área acadêmica como <strong>Analista de Sistemas Acadêmicos</strong>, atualmente estou trabalhando como <strong>Analista de Testes e PO</strong> em um time de projetos. 
   </br>
   </br>
-  Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Busco aprender para evoluir cada dia mais!
+  Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Estou me aprimorando em alguns cursos na área de <strong>Front-end e Design UI/UX</strong> .
 </p>
 
 <p align="left">
