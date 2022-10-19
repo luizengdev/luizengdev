@@ -1,7 +1,34 @@
-### Olá Eu sou o Luiz Almeida Alves Filho
+<img src="https://user-images.githubusercontent.com/47059188/196779025-6f03bfe0-0a3e-4d9d-b96b-7c14c5b3e35b.svg">
 
 
+<h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
 
+<p align="left"> 
+  Me chamo Luiz Almeida Alves Filho, moro em João Pessoa-PB. Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> e terminando meu TCC para Pós-graduação de <strong>Engenharia e Qualidade de Software</strong>.
+  </br>
+  </br>
+  Tenho experiência há 15 anos na área acadêmica como <strong>Analista de Sistemas Acadêmicos</strong>, atualmente estou trabalhando como <strong>Analista de Testes e PO</strong> em um time de projetos. 
+  </br>
+  </br>
+  Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Busco aprender para evoluir cada dia mais!
+</p>
+
+<p align="left">
+  Entre em contato comigo através das minhas redes sociais: ⤵️
+</p>
+
+<div align="left">
+  <a href="mailto:luizengdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luizengdev@gmail.com" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/luizengdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizengdev" alt="Linkedin" />
+  </a>
+
+  <a href="https://instagram.com/almeidaalvesfilho" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/almeidaalvesfilho" alt="Instagram">
+  </a>
 
 ---
 
