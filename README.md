@@ -10,7 +10,7 @@
   Tenho experiência há 15 anos na área acadêmica como <strong>Analista de Sistemas Acadêmicos</strong>, atualmente estou trabalhando como <strong>Analista de Testes e PO</strong> em um time de projetos. 
   </br>
   </br>
-  Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Estou me aprimorando em alguns cursos na área de <strong>Front-end e Design UI/UX</strong> .
+  Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Nas horas vagas venho me aprimorando em projetos pessoais e alguns cursos na área de <strong>Front-end e Design UI/UX</strong>, .
 </p>
 
 <p align="left">
