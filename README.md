@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/luizengdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeqs&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizengdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizengdev&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 **Languages and Tools:**  
@@ -29,4 +29,4 @@
  <a href="https://www.linkedin.com/in/luiz-almeida-alves-filho-1bb55756" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-![Snake animation](https://github.com/luizeqs/luizeqs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luizengdev/luizengdev/blob/output/github-contribution-grid-snake.svg)
