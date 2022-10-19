@@ -7,7 +7,7 @@
   Me chamo Luiz, moro em João Pessoa-PB. Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> e terminando meu TCC para Pós-graduação de <strong>Engenharia e Qualidade de Software</strong>.
   </br>
   </br>
-  Tenho experiência há 15 anos na área acadêmica como <strong>Analista de Sistemas Acadêmicos</strong>, atualmente estou trabalhando como <strong>Analista de Testes e PO</strong> em um time de projetos. 
+  Tenho experiência há 15 anos na área acadêmica como <strong>Analista de Serviços e Sistemas Acadêmicos</strong>, atualmente estou trabalhando como <strong>Analista de Testes e PO</strong> em um time de projetos. 
   </br>
   </br>
   Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Nas horas vagas venho me aprimorando em projetos pessoais e alguns cursos na área de <strong>Front-end e Design UI/UX</strong>, .
