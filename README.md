@@ -42,15 +42,14 @@
   ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 
 **Ferramentas:**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
-
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 **Estou estudando:**
 
