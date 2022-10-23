@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47059188/197386992-7b9fd68f-c28b-4024-80d9-4df30d9173c9.svg">
+<img src="https://user-images.githubusercontent.com/47059188/197386992-7b9fd68f-c28b-4024-80d9-4df30d9173c9.svg" width="200" alt="logo-pessoal">
 
 
 <h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
