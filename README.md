@@ -54,7 +54,8 @@
 **Estou estudando:**
 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-
+  
+![Snake animation](https://github.com/luizengdev/luizengdev/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <div align="center">
