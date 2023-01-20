@@ -58,9 +58,19 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/luizengdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizengdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizengdev&layout=compact&langs_count=10&theme=tokyonight"/>
-  
+<h2 align="center"> Informações do Perfil:</h2>
+
+#
+    
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizengdev&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizengdev&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizengdev&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+#
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizengdev&theme=tokyonight) <br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luizengdev&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/luizengdev"> 
+
+#    
+    
 ![Snake animation](https://github.com/luizengdev/luizengdev/blob/output/github-contribution-grid-snake.svg)
 </div>
