@@ -1,17 +1,11 @@
 <img src="https://user-images.githubusercontent.com/47059188/197386992-7b9fd68f-c28b-4024-80d9-4df30d9173c9.svg" width="200" alt="logo-pessoal">
 
 
-<h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
+<h3>Olá, seja bem-vindo(a) ao meu Github! :wave:</h3>
 
-<p align="left"> 
-  Me chamo Luiz, moro em João Pessoa-PB. Sou formado em <strong>Analise e Desenvolvimento de Sistemas</strong> e terminando meu TCC para Pós-graduação de <strong>Engenharia e Qualidade de Software</strong>.
-  </br>
-  </br>
-  Tenho experiência há 15 anos na área acadêmica como <strong>Analista de Serviços e Sistemas Acadêmicos</strong>, atualmente estou trabalhando como <strong>Analista de Testes e PO</strong> em um time de projetos. 
-  </br>
-  </br>
-  Sou um apaixonado por inovações, tecnologias e tudo relacionado ao universo. Nas horas vagas venho me aprimorando em projetos pessoais e alguns cursos na área de <strong>Front-end e Design UI/UX</strong>, .
-</p>
+Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou finalizando minha Pós-graduação em Engenharia e Qualidade de Software. Possuo 15 anos de experiência na área acadêmica como Analista de Serviços e Sistemas Acadêmicos, e atualmente trabalhando como Analista de Testes e PO em um time de projetos.
+
+Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digital. Nas minhas horas vagas, gosto de me aprimorar em projetos pessoais e cursos na área de Front-end e Design UI/UX. Aqui no meu github, você pode encontrar alguns dos meus projetos e experimentos. Fique a vontade para dar uma olhada e entrar em contato se tiver alguma dúvida ou sugestão.
 
 <p align="left">
   Entre em contato comigo através das minhas redes sociais: ⤵️
