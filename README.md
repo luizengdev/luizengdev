@@ -49,6 +49,7 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
 **Estou estudando:**
 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
+  ![tail](https://img.shields.io/badge/-Tailwind.css-333333?style=flat&logo=tailwind)
   
 ---
 
