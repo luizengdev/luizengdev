@@ -47,10 +47,10 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-**Estou estudando:**
+**Estou praticando:**
 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![tail](https://img.shields.io/badge/-Tailwind.css-333333?style=flat&logo=tailwind)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify)
   
 ---
 
