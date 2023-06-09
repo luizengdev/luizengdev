@@ -50,7 +50,7 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
 **Estou praticando:**
 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify&labelColor=1572B6)
   
 ---
 
