@@ -34,7 +34,8 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify&labelColor=1572B6)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
@@ -49,8 +50,8 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
   
 **Estou praticando:**
 
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify&labelColor=1572B6)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
+  ![Tailwind.css](https://img.shields.io/badge/-Tailwind.css-333333?style=flat&logo=Tailwindcss)
   
 ---
 
