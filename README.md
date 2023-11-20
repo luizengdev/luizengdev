@@ -38,6 +38,7 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify&labelColor=1572B6)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&labelColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 
