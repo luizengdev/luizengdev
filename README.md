@@ -3,7 +3,7 @@
 
 <h3>Olá, seja bem-vindo(a) ao meu Github! :wave:</h3>
 
-Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou finalizando minha Pós-graduação em Engenharia e Qualidade de Software. Possuo 15 anos de experiência na área acadêmica como Analista de Serviços e Sistemas Acadêmicos, e atualmente trabalhando como Analista de Testes e PO em um time de projetos.
+Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Testes de Softwares. Possuo 17 anos de experiência na área acadêmica como Analista de Sistemas Acadêmicos, e atualmente trabalhando como Analista de Testes e PO em um time de projetos.
 
 Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digital. Nas minhas horas vagas, gosto de me aprimorar em projetos pessoais e cursos na área de Front-end e Design UI/UX. Aqui no meu github, você pode encontrar alguns dos meus projetos e experimentos. Fique a vontade para dar uma olhada e entrar em contato se tiver alguma dúvida ou sugestão.
 
@@ -34,8 +34,8 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=Vuetify&labelColor=1572B6)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
+  ![Tailwind.css](https://img.shields.io/badge/-Tailwind.css-333333?style=flat&logo=Tailwindcss)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&labelColor=ffffff)
@@ -51,8 +51,7 @@ Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digit
   
 **Estou praticando:**
 
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
-  ![Tailwind.css](https://img.shields.io/badge/-Tailwind.css-333333?style=flat&logo=Tailwindcss)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go)
   
 ---
 
