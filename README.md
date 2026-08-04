@@ -3,9 +3,8 @@
 
 <h3>Olá, seja bem-vindo(a) ao meu Github! :wave:</h3>
 
-Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Testes de Softwares. Possuo 17 anos de experiência na área acadêmica como Analista de Sistemas Acadêmicos, e atualmente trabalhando como Analista de Testes e PO em um time de projetos.
-
-Sou apaixonado por inovações, tecnologias e tudo relacionado ao universo digital. Nas minhas horas vagas, gosto de me aprimorar em projetos pessoais e cursos na área de Front-end e Design UI/UX. Aqui no meu github, você pode encontrar alguns dos meus projetos e experimentos. Fique a vontade para dar uma olhada e entrar em contato se tiver alguma dúvida ou sugestão.
+Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Testes de Softwares. Tenho mais de 19 anos de experiência no setor acadêmico, atuando de forma estratégica na intersecção entre a Garantia de Qualidade (QA) e a Análise de Negócios. Minha especialidade é traduzir regras de negócio complexas em cenários de testes eficazes, garantindo a qualidade técnica e o valor de entrega do produto.
+Por possuir conhecimento prática em Desenvolvimento de Software, converso na mesma linguagem dos desenvolvedores. Isso acelera a identificação de falhas, otimiza processos de migração e facilita a automação de testes.
 
 <p align="left">
   Entre em contato comigo através das minhas redes sociais: ⤵️
