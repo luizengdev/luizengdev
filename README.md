@@ -1,7 +1,6 @@
-<img src="https://user-images.githubusercontent.com/47059188/197386992-7b9fd68f-c28b-4024-80d9-4df30d9173c9.svg" width="200" alt="logo-pessoal">
+<h2>Luiz Almeida Alves Filho 🐛🔍🧪🚀</h2>
 
-
-<h3>Olá, seja bem-vindo(a) ao meu Github! :wave:</h3>
+<h3>Quality Assurance (QA) | Analista de Testes | Testes Manuais | Business Analyst | Testes Funcionais | Analista de Negócios</h3>
 
 Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Testes de Softwares. Tenho mais de 19 anos de experiência no setor acadêmico, atuando de forma estratégica na intersecção entre a Garantia de Qualidade (QA) e a Análise de Negócios. Minha especialidade é traduzir regras de negócio complexas em cenários de testes eficazes, garantindo a qualidade técnica e o valor de entrega do produto.
 Por possuir conhecimento prática em Desenvolvimento de Software, converso na mesma linguagem dos desenvolvedores. Isso acelera a identificação de falhas, otimiza processos de migração e facilita a automação de testes.
