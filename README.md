@@ -57,7 +57,7 @@ Por possuir conhecimento prática em Desenvolvimento de Software, converso na me
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Estou estudando atualmente
-![CTFL, Automação, IA para Devs/QA, LLMs, Modelos, MCP & Context Engineering.](https://img.shields.io/badge/IA%20%26%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![CTFL, Automação, IA para Devs/QA, LLMs, Modelos, MCP & Context Engineering.](https://img.shields.io/badge/CTFL,_Automação,_IA_for_Devs/QA,_LLMs,_MCP%20%26%20_Context_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
   
 ---
