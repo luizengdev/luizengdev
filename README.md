@@ -35,8 +35,6 @@ Por possuir conhecimento prática em Desenvolvimento de Software, converso na me
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -59,7 +57,7 @@ Por possuir conhecimento prática em Desenvolvimento de Software, converso na me
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Estou estudando atualmente
-![IA e LLMs](https://img.shields.io/badge/IA%20%26%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![CTFL, Automação, IA para Devs/QA, LLMs, Modelos, MCP & Context Engineering.](https://img.shields.io/badge/IA%20%26%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
 
   
 ---
