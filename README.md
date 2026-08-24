@@ -1,9 +1,8 @@
 <h2>Luiz Almeida Alves Filho 🐛🔍🧪🚀</h2>
 
-<h3>Quality Assurance (QA) | Analista de Testes | Testes Manuais | Business Analyst | Testes Funcionais | Analista de Negócios</h3>
+<h3>QA Engineer | Quality Assurance | Analista de Testes | Testes Manuais | Testes Funcionais | API, E2E & Playwright</h3>
 
-Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Testes de Softwares. Tenho mais de 19 anos de experiência no setor acadêmico, atuando de forma estratégica na intersecção entre a Garantia de Qualidade (QA) e a Análise de Negócios. Minha especialidade é traduzir regras de negócio complexas em cenários de testes eficazes, garantindo a qualidade técnica e o valor de entrega do produto.
-Por possuir conhecimento prática em Desenvolvimento de Software, converso na mesma linguagem dos desenvolvedores. Isso acelera a identificação de falhas, otimiza processos de migração e facilita a automação de testes.
+Meu nome é Luiz, sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Testes de Softwares. Analista de Testes com mais de 19 anos de experiência no setor de tecnologia e operações complexas, especializado na intersecção entre Garantia de Qualidade (QA) e Análise de Negócios. Forte atuação na tradução de regras de negócio em cenários de testes eficazes para sistemas educacionais e processos de migração. Por possuir conhecimento prática em Desenvolvimento de Software, converso na mesma linguagem dos desenvolvedores. Isso acelera a identificação de falhas, otimiza processos de migração e facilita a automação de testes.
 
 <p align="left">
   Entre em contato comigo através das minhas redes sociais: ⤵️
